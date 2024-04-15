@@ -1,0 +1,16 @@
+h1 {
+    display:inline;
+}
+#start, #status {
+    font-size: 25px;
+}
+.instruction_images {
+    width: 45%;
+    display: inline-block;
+}
+video {
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center; 
+    padding: 50px;
+}
